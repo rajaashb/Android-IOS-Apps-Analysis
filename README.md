@@ -164,11 +164,8 @@ These genres are proven to attract users and provide long-term value, increasing
 ## 📁 Project Structure
 
 ├── app-profile-analysis.ipynb   # Main notebook
-
 ├── apple-store.csv              # iOS dataset
-
 ├── google-play-store.csv        # Android dataset
-
 ├── README.md                    # Project overview and insights
 
 ------
