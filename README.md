@@ -99,17 +99,11 @@ Instead of just frequency, I calculated the average number of installs or rating
 Calculated average total user ratings (proxy for popularity):
 
 | Genre             | Avg. User Ratings |
-
 | ----------------- | ----------------- |
-
 | Navigation        | \~860,000+        |
-
 | Reference         | \~740,000+        |
-
 | Social Networking | \~530,000+        |
-
 | Music             | \~400,000+        |
-
 | Weather           | \~330,000+        |
 
 Insight: High-rated genres are often utility or niche-focused apps like GPS, dictionaries, or social platforms.
@@ -120,17 +114,11 @@ Insight: High-rated genres are often utility or niche-focused apps like GPS, dic
 Cleaned the Installs column and removed non-numeric characters, then calculated:
 
 | Genre         | Avg. Installs |
-
 | ------------- | ------------- |
-
 | Communication | \~38M         |
-
 | Video Players | \~25M         |
-
 | Social        | \~23M         |
-
 | Productivity  | \~15M         |
-
 | Photography   | \~12M         |
 
 Insight: Communication, social media, and media apps dominate in install counts, but are highly competitive.
